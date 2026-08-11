@@ -2,3 +2,4 @@ Merhaba Git
 Git Ogreniyorum 
 GitHub push islemini de ogrendim
 Bu satiri GitHub uzerinden ekledim
+Bu satir yeni-not branchinde eklendi 
