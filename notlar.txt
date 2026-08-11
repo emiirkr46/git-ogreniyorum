@@ -1,2 +1,3 @@
 Merhaba Git 
 Git Ogreniyorum 
+GitHub push islemini de ogrendim
